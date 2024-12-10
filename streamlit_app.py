@@ -3,6 +3,7 @@ from PIL import Image
 import requests
 import base64
 import io
+pip install --upgrade pip
 
 # OpenAI API Key
 OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
