@@ -2,4 +2,3 @@ streamlit
 openai
 pillow
 requests
-pip 24.3.1
