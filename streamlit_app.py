@@ -5,7 +5,7 @@ import base64
 import io
 
 # OpenAI API Key
-OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # OpenAI Vision API endpoint
 VISION_API_URL = "https://api.openai.com/v1/images"
